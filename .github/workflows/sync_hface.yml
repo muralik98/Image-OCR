@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://muralik0115:$HF_TOKEN@huggingface.co/spaces/muralik0115/image-ocr main
+        run: git push --force https://muralik0115:$HF_TOKEN@huggingface.co/spaces/muralik0115/image-ocr main
