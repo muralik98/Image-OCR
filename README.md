@@ -1,6 +1,6 @@
 ---
 title: Image Ocr
-emoji:📷📝
+emoji:📷
 colorFrom: red
 colorTo: indigo
 sdk: streamlit
