@@ -8,5 +8,6 @@ app_file: app.py
 pinned: false
 ---
 
-# image2textapp
-demo of 🤗 spaces deployment of a streamlit python app
+# Image-OCR App
+
+Convert any Image into Text Using this App !! 
